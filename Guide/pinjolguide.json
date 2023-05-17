@@ -50,7 +50,8 @@
       "title": "Apakah Pinjaman online Dana Rupiah Pinjaman Cepat-Hint Aman",
       "image": "file:///android_asset/image/dana1.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
-      "link": "file:///android_asset/guide/guide_2.html"},
+      "link": "file:///android_asset/guide/guide_2.html"
+     },
     {
       "id": 3,
       "category": "Dana Rupiah",
@@ -66,8 +67,7 @@
       "image": "file:///android_asset/image/dana2.png",
       "description": "Beberapa Tips Agar Pinjaman Online Dana Rupiah Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
-    },
-   
+    }, 
    {
       "id": 5,
       "category": "Dana Rupiah",
