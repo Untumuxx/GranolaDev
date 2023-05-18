@@ -39,7 +39,7 @@
     {
       "id": 1,
       "category": "Dana Rupiah",
-      "title": "Cair Dana Info",
+      "title": "Dana Cair Info",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Dana Cair",
       "link": "file:///android_asset/guide/guide_1.html"
