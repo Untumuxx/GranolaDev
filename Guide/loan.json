@@ -1,1 +1,80 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "",
+      "main_ads_natives":"",
+      "main_ads_intertitial":"",
+      "main_ads_reward":"",
+      "open_ads_max":"5ee8997f11e47495",
+      "open_ads_admob":"",
+      "backup_ads_banner":"ee63fea022697421",
+      "backup_ads_natives":"1a2ee25a1253cb2c",
+      "backup_ads_intertitial":"f24001b0998340fd",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "on_off_native_listview":"1",
+      "initialize_sdk":"107355779",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Car Loan",
+      "image": "file:///android_asset/image/banner.png"
 
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Dana Rupiah",
+      "title": "Tunai Kilat Online Info",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Tentang Tunai Kilat",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Dana Rupiah",
+      "title": "Apakah Pinjaman online Tunai Kilat Cepat-Hint Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"},
+    {
+      "id": 3,
+      "category": "Dana Rupiah",
+      "title": "Cara Menghitung Bunga Pinjaman Online Tunai Kilat Cepat-Hint",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tunai Kilat",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 4,
+      "category": "Dana Rupiah",
+      "title": "Syarat Pinjaman Online Tunai Kilat Cepat-Hint Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunai Kilat Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 5,
+      "category": "Dana Rupiah",
+      "title": "Kemudhan Pinjaman Online di Tunai Kilat Cepat-Hint ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Tunai Kilat Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
