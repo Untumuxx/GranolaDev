@@ -29,7 +29,7 @@
      "Categories": [
     {
       "category": "Car Loan",
-      "image": "file:///android_asset/image/banner.png"
+      "image": "https://s3.us-west-1.wasabisys.com/pinjolguide/pinjol%20kilat%20-%20Cepat%20Cair%20Tips/banner.png"
 
     }
     
@@ -40,7 +40,7 @@
       "id": 1,
       "category": "Dana Rupiah",
       "title": "Pinjam Dana Online Info",
-      "image": "file:///android_asset/image/banner.png",
+      "image": "https://s3.us-west-1.wasabisys.com/pinjolguide/pinjol%20kilat%20-%20Cepat%20Cair%20Tips/banner.png",
       "description": "Sekilas Tentang Pinjam Dana",
       "link": "file:///android_asset/guide/guide_1.html"
     },
