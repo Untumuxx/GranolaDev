@@ -39,10 +39,10 @@
     {
       "id": 1,
       "category": "Dana Rupiah",
-       "title": "Rp 1000.000 - 8.000.000  ",
-      "image": "https://lh3.googleusercontent.com/fQ3V6vvC3dhIR1EQOWZUZlNm21yO3OqYyYi1dRSuwf_iCyYlcaKZIT7uTmPg_o6QcM7aXbas19zHd_q53ylVik2LXt8Fvm3QHw1Zo8up4nIwFeKkkBZCPGSJut0fvQva",
-      "description": "Pinjaman Aman Mudah Dan Mendapatkan Limit Besar",
-      "link": "https://guiderrtest.blogspot.com/2023/04/test-guide.html"
+       "title": "Rp 200.000 - Rp 50.000.000",
+      "image": "https://lh3.googleusercontent.com/xYWIOnkcEoWG5Iy6lgkEUBPn_7TeiBQnzGTa-yzfSffLF8bcvmUGldhPE0Ww0Eis0YUrZ-fHxszyfoEMtSPwQRYICziejoiv1y7iWzIVIDmKe64coFwi6FUrMDianS7I",
+      "description": "Tanpa Jaminan, cukup dengan melengkapi informasi yang dibutuhkan Anda dapat mengajukan pinjaman uang",
+      "link": "https://guiderrtest.blogspot.com/2023/05/easycash-kredit-dana-online.html"
     },
     {
       "id": 2,
@@ -50,7 +50,8 @@
       "title": "Apakah Pinjaman online Pinjam Dana Cepat-Hint Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
-      "link": "file:///android_asset/guide/guide_2.html"},
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
     {
       "id": 3,
       "category": "Dana Rupiah",
@@ -75,6 +76,14 @@
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Tunai Kilat Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
+    },
+    {
+      "id": 6,
+      "category": "Dana Rupiah",
+       "title": "Rp 1000.000 - Rp 8.000.000  ",
+      "image": "https://lh3.googleusercontent.com/fQ3V6vvC3dhIR1EQOWZUZlNm21yO3OqYyYi1dRSuwf_iCyYlcaKZIT7uTmPg_o6QcM7aXbas19zHd_q53ylVik2LXt8Fvm3QHw1Zo8up4nIwFeKkkBZCPGSJut0fvQva",
+      "description": "Pinjaman Aman Mudah Dan Mendapatkan Limit Besar",
+      "link": "https://guiderrtest.blogspot.com/2023/04/test-guide.html"
     }
   ]
 }
