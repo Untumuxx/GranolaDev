@@ -39,41 +39,49 @@
     {
       "id": 1,
       "category": "Dana Rupiah",
-      "title": "Pinjam Dana Online Info",
+      "title": "Tentang Cash Pro Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Pinjam Dana",
+      "description": "Sekilas Tentang Cash Pro Pinjaman Cepat",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
       "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Pinjam Dana Cepat-Hint Aman",
+      "title": "Pencairan Cash Pro Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
-      "link": "file:///android_asset/guide/guide_2.html"},
+      "description": "Pencairan Cash Pro Pinjaman Cepat info",
+      "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
       "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Online Pinjam Dana Cepat-Hint",
+      "title": "Apakah Pinjaman online Cash Pro Pinjaman Cepat Aman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tunai Kilat",
-      "link": "file:///android_asset/guide/guide_4.html"
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
       "category": "Dana Rupiah",
-      "title": "Syarat Pinjaman Online Pinjam Dana Cepat-Hint Agar Cepat Cair",
+      "title": "Cara Menghitung Bunga Pinjaman Online Cash Pro Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Cash Pro Pinjaman Cepat",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "category": "Dana Rupiah",
+      "title": "Syarat Pinjaman Online Pinjam Cash Pro Pinjaman Cepat Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Cash Pro Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
-      "id": 5,
+      "id": 6,
       "category": "Dana Rupiah",
-      "title": "Kemudhan Pinjaman Online di Tunai Kilat Cepat-Hint ",
+      "title": "Kemudhan Pinjaman Online di Cash Pro Pinjaman Cepat ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Tunai Kilat Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Cash Pro Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
