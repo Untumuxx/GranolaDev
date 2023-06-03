@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Pinjaman Amanah",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Tentang Pinjaman Amanah : Kredit Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Pinjaman Amanah : Kredit Cash",
@@ -46,14 +46,14 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Pencairan Pinjaman Amanah : Kredit Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Pinjaman Amanah : Kredit Cash info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Apakah Pinjaman online Pinjaman Amanah : Kredit Cash Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Cara Menghitung Bunga Pinjaman Online Pinjaman Amanah : Kredit Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Pinjaman Amanah : Kredit Cash",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Syarat Pinjaman Online Pinjam Pinjaman Amanah : Kredit Cash Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Amanah : Kredit Cash Cepat Cair",
@@ -78,7 +78,7 @@
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Amanah",
       "title": "Kemudhan Pinjaman Online di Pinjaman Amanah : Kredit Cash ",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Amanah : Kredit Cash Cepat Cair",
