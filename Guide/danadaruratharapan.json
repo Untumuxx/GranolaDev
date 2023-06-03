@@ -1,21 +1,21 @@
 {
  "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "5d577fed6ada78bd",
-      "main_ads_natives":"32ad18a79ce5d0cd",
-      "main_ads_intertitial":"10eb5071b01aae37",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "280374574432376_280375677765599",
+      "main_ads_natives":"b75ea93e3635ff3c",
+      "main_ads_intertitial":"280374574432376_280375724432261",
       "main_ads_reward":"",
-      "open_ads_max":"40942c0ebcc15ad8",
+      "open_ads_max":"77abd0f516782cf2",
       "open_ads_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_natives":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"35963742d801180c",
+      "backup_ads_natives":"b75ea93e3635ff3c",
+      "backup_ads_intertitial":"	b376725a3f508fe2",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
       "on_off_native_listview":"1",
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"280374574432376",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Dana Darurat",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Tentang Dana Darurat Harapan",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Dana Darurat Harapan",
@@ -46,14 +46,14 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Pencairan Dana Darurat Harapan",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Dana Darurat Harapan info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Apakah Pinjaman online Dana Darurat Harapan Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Cara Menghitung Bunga Pinjaman Online Dana Darurat Harapant",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Darurat Harapan",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Syarat Pinjaman Online Dana Darurat Harapan Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Dana Darurat Harapan Cepat Cair",
@@ -78,7 +78,7 @@
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
+      "category": "Dana Darurat",
       "title": "Kemudhan Pinjaman Online di Dana Darurat Harapan ",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Dana Darurat Harapan Cepat Cair",
