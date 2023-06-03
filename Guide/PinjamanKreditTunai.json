@@ -1,21 +1,21 @@
 {
  "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "5d577fed6ada78bd",
-      "main_ads_natives":"32ad18a79ce5d0cd",
-      "main_ads_intertitial":"10eb5071b01aae37",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "6245318305546025_6245319335545922",
+      "main_ads_natives":"4dbb93256ac42a4e",
+      "main_ads_intertitial":"6245318305546025_6245319335545922",
       "main_ads_reward":"",
-      "open_ads_max":"40942c0ebcc15ad8",
+      "open_ads_max":"2200bfa61c622f36",
       "open_ads_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_natives":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"f07823f3987117db",
+      "backup_ads_natives":"4dbb93256ac42a4e",
+      "backup_ads_intertitial":"4d24fb999043c267",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
       "on_off_native_listview":"1",
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"6245318305546025",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Pinjaman Kredit Tunai",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kredit Tunai",
       "title": "Tentang Pinjaman Kredit Tunai",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Dana Pro Uang Cepat",
@@ -46,22 +46,22 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kredit Tunai",
       "title": "Pencairan Pinjaman Kredit Tunai",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Pinjaman Kredit Tunai info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Pinjaman Kredit Tunait Aman",
+      "category": "Pinjaman Kredit Tunai",
+      "title": "Apakah Pinjaman online Pinjaman Kredit Tunai Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kredit Tunai",
       "title": "Cara Menghitung Bunga Pinjaman Online Pinjaman Kredit Tunait",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Pinjaman Kredit Tunai",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kredit Tunai",
       "title": "Syarat Pinjaman Online Pinjaman Kredit Tunai Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Kredit Tunai Cepat Cair",
