@@ -1,21 +1,21 @@
 {
  "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "5d577fed6ada78bd",
-      "main_ads_natives":"32ad18a79ce5d0cd",
-      "main_ads_intertitial":"10eb5071b01aae37",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "287138867015580_287140547015412",
+      "main_ads_natives":"b491865585c9f280",
+      "main_ads_intertitial":"287138867015580_287140607015406",
       "main_ads_reward":"",
-      "open_ads_max":"40942c0ebcc15ad8",
+      "open_ads_max":"4c1916aa000508d6",
       "open_ads_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_natives":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"420c017d2af57434",
+      "backup_ads_natives":"b491865585c9f280",
+      "backup_ads_intertitial":"ce8508a932df56e2",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
       "on_off_native_listview":"1",
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"287138867015580",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Dompet Kaya",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Tentang Dompet Kaya Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Dompet Kaya Pinjaman",
@@ -46,14 +46,14 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Pencairan Dompet Kaya Pinjaman Online",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Dompet Kaya Pinjaman info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Apakah Pinjaman online Dompet Kaya Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Cara Menghitung Bunga Pinjaman Online Dompet Kaya Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dompet Kaya Pinjaman",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Syarat Pinjaman Online Pinjam Dompet Kaya Pinjaman Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Dompet Kaya Pinjaman Cepat Cair",
@@ -78,7 +78,7 @@
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
+      "category": "Dompet Kaya",
       "title": "Kemudhan Pinjaman Online di Dompet Kaya Pinjaman ",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Dompet Kaya Pinjaman cepat Cair",
