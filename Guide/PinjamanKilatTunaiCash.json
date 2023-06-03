@@ -1,21 +1,21 @@
 {
  "Ads": [
     {
-      "select_main_ads": "APPLOVIN-M",
-      "select_backup_ads":"FACEBOOK",
-      "main_ads_banner": "5d577fed6ada78bd",
-      "main_ads_natives":"32ad18a79ce5d0cd",
-      "main_ads_intertitial":"10eb5071b01aae37",
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "975489683469011_975490043468975",
+      "main_ads_natives":"e88e18808708ee2c",
+      "main_ads_intertitial":"975489683469011_975490126802300",
       "main_ads_reward":"",
-      "open_ads_max":"40942c0ebcc15ad8",
+      "open_ads_max":"880aaa2d5254d75b",
       "open_ads_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_natives":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"b1a71f0e737eb1d7",
+      "backup_ads_natives":"e88e18808708ee2c",
+      "backup_ads_intertitial":"02299cbe54257d14",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
       "on_off_native_listview":"1",
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"975489683469011",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Pinjaman Kilat",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kilat",
       "title": "Tentang Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Pinjaman Kilat : Tunai Cash",
@@ -46,14 +46,14 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kilat",
       "title": "Pencairan Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Pinjaman Kilat : Tunai Cash info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kilat",
       "title": "Apakah Pinjaman online Pinjaman Kilat : Tunai Cash Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kilat",
       "title": "Cara Menghitung Bunga Pinjaman Online Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Pinjaman Kilat : Tunai Cash",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Pinjaman Kilat",
       "title": "Syarat Pinjaman Online Pinjam Pinjaman Kilat : Tunai Cash Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Kilat : Tunai Cash Cepat Cair",
