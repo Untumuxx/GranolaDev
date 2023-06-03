@@ -39,22 +39,22 @@
     {
       "id": 1,
       "category": "Dana Rupiah",
-      "title": "Tentang Dana Pro Uang Cepat",
+      "title": "Tentang Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Dana Pro Uang Cepat",
+      "description": "Sekilas Tentang Pinjaman Kilat : Tunai Cash",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
       "category": "Dana Rupiah",
-      "title": "Pencairan Dana Pro Uang Cepat",
+      "title": "Pencairan Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Dana Pro Uang Cepat info",
+      "description": "Pencairan Pinjaman Kilat : Tunai Cash info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
       "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Dana Pro Uang Cepat Aman",
+      "title": "Apakah Pinjaman online Pinjaman Kilat : Tunai Cash Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
@@ -62,26 +62,26 @@
     {
       "id": 4,
       "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Online Dana Pro Uang Cepat",
+      "title": "Cara Menghitung Bunga Pinjaman Online Pinjaman Kilat : Tunai Cash",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Pro Uang Cepat",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Pinjaman Kilat : Tunai Cash",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
       "category": "Dana Rupiah",
-      "title": "Syarat Pinjaman Online Pinjam Dana Pro Uang Cepat Agar Cepat Cair",
+      "title": "Syarat Pinjaman Online Pinjam Pinjaman Kilat : Tunai Cash Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Kilat : Tunai Cash Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 6,
       "category": "Dana Rupiah",
-      "title": "Kemudhan Pinjaman Online di Dana Pro Uang Cepat ",
+      "title": "Kemudhan Pinjaman Online di Pinjaman Kilat : Tunai Cash ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Dana Pro Uang Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Pinjaman Kilat : Tunai Cash Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
