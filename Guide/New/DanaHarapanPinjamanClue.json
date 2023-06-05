@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Dana Harapan Pinjaman",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,50 +38,50 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
-      "title": "Tentang Dana Pro Uang Cepat",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Tentang Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Dana Pro Uang Cepat",
+      "description": "Sekilas Tentang Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
-      "title": "Pencairan Dana Pro Uang Cepat",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Pencairan Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Dana Pro Uang Cepat info",
+      "description": "Pencairan Dana Harapan - Pinjaman info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Dana Pro Uang Cepat Aman",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Apakah Pinjaman online Dana Harapan - Pinjaman Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Online Dana Pro Uang Cepat",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Cara Menghitung Bunga Pinjaman Online Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Pro Uang Cepat",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Harapan - Pinjaman",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
-      "title": "Syarat Pinjaman Online Pinjam Dana Pro Uang Cepat Agar Cepat Cair",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Syarat Pinjaman Online Pinjam Dana Harapan - Pinjaman Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Harapan - Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
-      "title": "Kemudhan Pinjaman Online di Dana Pro Uang Cepat ",
+      "category": "Dana Harapan Pinjaman",
+      "title": "Kemudhan Pinjaman Online di Dana Harapan - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Dana Pro Uang Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Harapan - Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
