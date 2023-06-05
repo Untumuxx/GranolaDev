@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "DanaFull Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,38 +38,38 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
-      "title": "Tentang Dana Pro Uang Cepat",
+      "category": "DanaFull Pinjaman Cepat",
+      "title": "Tentang DanaFull Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Dana Pro Uang Cepat",
+      "description": "Sekilas Tentang DanaFull Pinjaman Cepat",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
       "category": "Dana Rupiah",
-      "title": "Pencairan Dana Pro Uang Cepat",
+      "title": "Pencairan DanaFull Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Dana Pro Uang Cepat info",
+      "description": "Pencairan DanaFull Pinjaman Cepatt info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Dana Pro Uang Cepat Aman",
+      "category": "DanaFull Pinjaman Cepat",
+      "title": "Apakah Pinjaman online DanaFull Pinjaman Cepatt Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Online Dana Pro Uang Cepat",
+      "category": "DanaFull Pinjaman Cepat",
+      "title": "Cara Menghitung Bunga Pinjaman Online DanaFull Pinjaman Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Pro Uang Cepat",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman DanaFull Pinjaman Cepat",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "DanaFull Pinjaman Cepat",
       "title": "Syarat Pinjaman Online Pinjam Dana Pro Uang Cepat Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
@@ -78,10 +78,10 @@
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
-      "title": "Kemudhan Pinjaman Online di Dana Pro Uang Cepat ",
+      "category": "DanaFull Pinjaman Cepat",
+      "title": "Kemudhan Pinjaman Online di DanaFull Pinjaman Cepat ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Dana Pro Uang Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online DanaFull Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
