@@ -39,22 +39,22 @@
     {
       "id": 1,
       "category": "Kta Cepat",
-      "title": "Tentang Kta Cepat - Pinjaman",
+      "title": "Tentang KTA Cepat - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Kta Cepat - Pinjaman",
+      "description": "Sekilas Tentang KTA Cepat - Pinjaman",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
       "category": "Kta Cepat",
-      "title": "Pencairan Kta Cepat - Pinjaman",
+      "title": "Pencairan KTA Cepat - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Kta Cepat - Pinjaman info",
+      "description": "Pencairan KTA Cepat - Pinjaman info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
       "category": "Kta Cepat",
-      "title": "Apakah Pinjaman online Dana Pro Uang Cepat Aman",
+      "title": "Apakah Pinjaman online KTA Cepat - Pinjaman Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
@@ -62,26 +62,26 @@
     {
       "id": 4,
       "category": "Kta Cepat",
-      "title": "Cara Menghitung Bunga Pinjaman Online Kta Cepat - Pinjaman",
+      "title": "Cara Menghitung Bunga Pinjaman Online KTA Cepat - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kta Cepat - Pinjaman",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman KTA Cepat - Pinjaman",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
       "category": "Kta Cepat",
-      "title": "Syarat Pinjaman Online Pinjam Kta Cepat - Pinjaman Agar Cepat Cair",
+      "title": "Syarat Pinjaman Online Pinjam KTA Cepat - Pinjaman Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Kta Cepat - Pinjaman Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online KTA Cepat - Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 6,
       "category": "Kta Cepat",
-      "title": "Kemudhan Pinjaman Online di Kta Cepat - Pinjaman ",
+      "title": "Kemudhan Pinjaman Online di KTA Cepat - Pinjaman ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Kta Cepat - Pinjaman Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online KTA Cepat - Pinjaman Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
