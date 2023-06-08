@@ -1,0 +1,88 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "3550084785224585_3550085008557896",
+      "main_ads_natives":"4022127b6fbbbf22",
+      "main_ads_intertitial":"3550084785224585_3550085061891224",
+      "main_ads_reward":"",
+      "open_ads_max":"13cfd37be2e4b78e",
+      "open_ads_admob":"",
+      "backup_ads_banner":"676a506936ef8c73",
+      "backup_ads_natives":"4022127b6fbbbf22",
+      "backup_ads_intertitial":"71b6618d7cc4c2f1",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "on_off_native_listview":"1",
+      "initialize_sdk":"3550084785224585",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Tarik Dana",
+      "image": "file:///android_asset/image/banner.png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Tarik Dana",
+      "title": "Tentang Tarik Dana - Pinjam Uang",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Tentang Tarik Dana - Pinjam Uang",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Tarik Dana",
+      "title": "Pencairan Tarik Dana - Pinjam Uang",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Pencairan Tarik Dana - Pinjam Uangt info",
+      "link": "file:///android_asset/guide/guide_6.html"},
+    {
+      "id": 3,
+      "category": "Tarik Dana",
+      "title": "Apakah Pinjaman online Tarik Dana - Pinjam Uang Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 4,
+      "category": "Tarik Dana",
+      "title": "Cara Menghitung Bunga Pinjaman Online Tarik Dana - Pinjam Uang",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tarik Dana - Pinjam Uang",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "category": "Tarik Dana",
+      "title": "Syarat Pinjaman Online Pinjam Tarik Dana - Pinjam Uang Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 6,
+      "category": "",
+      "title": "Kemudhan Pinjaman Online di Tarik Dana - Pinjam Uang ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Tarik Dana - Pinjam Uang Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
