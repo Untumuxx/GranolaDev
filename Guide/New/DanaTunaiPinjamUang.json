@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Tarik Dana",
+      "category": "Dana Tunai",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,50 +38,50 @@
   "Data": [
     {
       "id": 1,
-      "category": "Tarik Dana",
-      "title": "Tentang Tarik Dana - Pinjam Uang",
+      "category": "Dana Tunai",
+      "title": "Tentang Dana Tunai- Pinjam Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Tarik Dana - Pinjam Uang",
+      "description": "Sekilas Tentang Dana Tunai- Pinjam Uang",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "Tarik Dana",
-      "title": "Pencairan Tarik Dana - Pinjam Uang",
+      "category": "Dana Tunai",
+      "title": "Pencairan Dana Tunai- Pinjam Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Tarik Dana - Pinjam Uangt info",
+      "description": "Pencairan Dana Tunai- Pinjam Uang info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Tarik Dana",
-      "title": "Apakah Pinjaman online Tarik Dana - Pinjam Uang Aman",
+      "category": "Dana Tunai",
+      "title": "Apakah Pinjaman online Dana Tunai- Pinjam Uang Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
-      "category": "Tarik Dana",
-      "title": "Cara Menghitung Bunga Pinjaman Online Tarik Dana - Pinjam Uang",
+      "category": "Dana Tunai",
+      "title": "Cara Menghitung Bunga Pinjaman Online Dana Tunai- Pinjam Uang",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Tarik Dana - Pinjam Uang",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Tunai- Pinjam Uang",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "category": "Tarik Dana",
-      "title": "Syarat Pinjaman Online Pinjam Tarik Dana - Pinjam Uang Agar Cepat Cair",
+      "category": "Dana Tunai",
+      "title": "Syarat Pinjaman Online Pinjam Dana Tunai- Pinjam Uang Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Tunai- Pinjam Uang Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 6,
-      "category": "",
-      "title": "Kemudhan Pinjaman Online di Tarik Dana - Pinjam Uang ",
+      "category": "Dana Tunai",
+      "title": "Kemudhan Pinjaman Online di Dana Tunai- Pinjam Uang ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Tarik Dana - Pinjam Uang Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Tunai- Pinjam Uang Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
