@@ -1,0 +1,88 @@
+{
+ "Ads": [
+    {
+      "select_main_ads": "FACEBOOK",
+      "select_backup_ads":"APPLOVIN-M",
+      "main_ads_banner": "1972337146290007_1972341819622873",
+      "main_ads_natives":"ad9df4d5bfa1ab7d",
+      "main_ads_intertitial":"1972337146290007_1972341916289530",
+      "main_ads_reward":"",
+      "open_ads_max":"5a1f61a83a04c87d",
+      "open_ads_admob":"",
+      "backup_ads_banner":"78060b8580feecbc",
+      "backup_ads_natives":"ad9df4d5bfa1ab7d",
+      "backup_ads_intertitial":"b65b20e3daaa53c2",
+      "backup_ads_reward":"",
+      "interval_intertitial": 1,
+      "on_off_native_listview":"1",
+      "initialize_sdk":"1972337146290007",
+      "initialize_sdk_backup_ads":"",
+      "high_paying_keyword_1": "",
+      "high_paying_keyword_2": "",
+      "high_paying_keyword_3": "",
+      "high_paying_keyword_4": "",
+      "high_paying_keyword_5": "",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+     "Categories": [
+    {
+      "category": "Kredit Rupiah",
+      "image": "file:///android_asset/image/banner.png"
+
+    }
+    
+  ],
+
+  "Data": [
+    {
+      "id": 1,
+      "category": "Kredit Rupiah",
+      "title": "Tentang Kredit Rupiah - Pinjam Dana",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Sekilas Tentang Kredit Rupiah - Pinjam Dana",
+      "link": "file:///android_asset/guide/guide_1.html"
+    },
+    {
+      "id": 2,
+      "category": "Kredit Rupiah",
+      "title": "Pencairan Kredit Rupiah - Pinjam Dana",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Pencairan Kredit Rupiah - Pinjam Dana info",
+      "link": "file:///android_asset/guide/guide_6.html"},
+    {
+      "id": 3,
+      "category": "Kredit Rupiah",
+      "title": "Apakah Pinjaman online Kredit Rupiah - Pinjam Dana Aman",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Cek Pinjaman Online apakah Terdaftar OJK",
+      "link": "file:///android_asset/guide/guide_2.html"
+    },
+    {
+      "id": 4,
+      "category": "Kredit Rupiah",
+      "title": "Cara Menghitung Bunga Pinjaman Online Kredit Rupiah - Pinjam Dana",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit Rupiah - Pinjam Dana",
+      "link": "file:///android_asset/guide/guide_4.html"
+    },
+    {
+      "id": 5,
+      "category": "Kredit Rupiah",
+      "title": "Syarat Pinjaman Online Pinjam Kredit Rupiah - Pinjam Dana Agar Cepat Cair",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Rupiah - Pinjam Dana Cepat Cair",
+      "link": "file:///android_asset/guide/guide_3.html"
+    },
+   
+   {
+      "id": 6,
+      "category": "Kredit Rupiah",
+      "title": "Kemudhan Pinjaman Online di Kredit Rupiah - Pinjam Dana ",
+      "image": "file:///android_asset/image/banner.png",
+      "description": "Beberapa Tips Agar Pinjaman Online Kredit Rupiah - Pinjam Dana Cepat Cair",
+      "link": "file:///android_asset/guide/guide_5.html"
+    }
+  ]
+}
