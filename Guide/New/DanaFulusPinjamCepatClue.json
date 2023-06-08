@@ -3,19 +3,19 @@
     {
       "select_main_ads": "FACEBOOK",
       "select_backup_ads":"APPLOVIN-M",
-      "main_ads_banner": "5d577fed6ada78bd",
-      "main_ads_natives":"32ad18a79ce5d0cd",
-      "main_ads_intertitial":"10eb5071b01aae37",
+      "main_ads_banner": "1556908478130801_1556910054797310",
+      "main_ads_natives":"b330e34df6182d3a",
+      "main_ads_intertitial":"1556908478130801_1556910101463972",
       "main_ads_reward":"",
-      "open_ads_max":"40942c0ebcc15ad8",
+      "open_ads_max":"21ba968acb9f24d7",
       "open_ads_admob":"",
-      "backup_ads_banner":"",
-      "backup_ads_natives":"",
-      "backup_ads_intertitial":"",
+      "backup_ads_banner":"ddcbc7bddd15b7be",
+      "backup_ads_natives":"b330e34df6182d3a",
+      "backup_ads_intertitial":"218e4b4cbcb31ab7",
       "backup_ads_reward":"",
       "interval_intertitial": 1,
       "on_off_native_listview":"1",
-      "initialize_sdk":"107355779",
+      "initialize_sdk":"1556908478130801",
       "initialize_sdk_backup_ads":"",
       "high_paying_keyword_1": "",
       "high_paying_keyword_2": "",
@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Dana Fulus",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,50 +38,50 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
-      "title": "Tentang Dana Pro Uang Cepat",
+      "category": "Dana Fulus",
+      "title": "Tentang Dana Fulus - Pinjam Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Sekilas Tentang Dana Pro Uang Cepat",
+      "description": "Sekilas Tentang Dana Fulus - Pinjam Cepat",
       "link": "file:///android_asset/guide/guide_1.html"
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
-      "title": "Pencairan Dana Pro Uang Cepat",
+      "category": "Dana Fulus",
+      "title": "Pencairan Dana Fulus - Pinjam Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Pencairan Dana Pro Uang Cepat info",
+      "description": "Pencairan Dana Fulus - Pinjam Cepatt info",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
-      "title": "Apakah Pinjaman online Dana Pro Uang Cepat Aman",
+      "category": "Dana Fulus",
+      "title": "Apakah Pinjaman online Dana Fulus - Pinjam Cepat Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
       "link": "file:///android_asset/guide/guide_2.html"
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
-      "title": "Cara Menghitung Bunga Pinjaman Online Dana Pro Uang Cepat",
+      "category": "Dana Fulus",
+      "title": "Cara Menghitung Bunga Pinjaman Online Dana Fulus - Pinjam Cepat",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Pro Uang Cepat",
+      "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Dana Fulus - Pinjam Cepat",
       "link": "file:///android_asset/guide/guide_4.html"
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
-      "title": "Syarat Pinjaman Online Pinjam Dana Pro Uang Cepat Agar Cepat Cair",
+      "category": "Dana Fulus",
+      "title": "Syarat Pinjaman Online Pinjam Dana Fulus - Pinjam Cepat Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Pinjam Dana Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Fulus - Pinjam Cepat Cepat Cair",
       "link": "file:///android_asset/guide/guide_3.html"
     },
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
-      "title": "Kemudhan Pinjaman Online di Dana Pro Uang Cepat ",
+      "category": "Dana Fulus",
+      "title": "Kemudhan Pinjaman Online di Dana Fulus - Pinjam Cepat ",
       "image": "file:///android_asset/image/banner.png",
-      "description": "Beberapa Tips Agar Pinjaman Online Dana Pro Uang Cepat Cair",
+      "description": "Beberapa Tips Agar Pinjaman Online Dana Fulus - Pinjam Cepat Cepat Cair",
       "link": "file:///android_asset/guide/guide_5.html"
     }
   ]
