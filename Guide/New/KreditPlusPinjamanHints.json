@@ -28,7 +28,7 @@
   ],
      "Categories": [
     {
-      "category": "Car Loan",
+      "category": "Kredit Plus",
       "image": "file:///android_asset/image/banner.png"
 
     }
@@ -38,7 +38,7 @@
   "Data": [
     {
       "id": 1,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Tentang Kredit Plus - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Sekilas Tentang Kredit Plus - Pinjaman Hint",
@@ -46,14 +46,14 @@
     },
     {
       "id": 2,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Pencairan Kredit Plus - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Pencairan Kredit Plus - Pinjaman Hint",
       "link": "file:///android_asset/guide/guide_6.html"},
     {
       "id": 3,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Apakah Pinjaman online Kredit Plus - Pinjaman Aman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Cek Pinjaman Online apakah Terdaftar OJK",
@@ -61,7 +61,7 @@
     },
     {
       "id": 4,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Cara Menghitung Bunga Pinjaman Online Kredit Plus - Pinjaman",
       "image": "file:///android_asset/image/banner.png",
       "description": "Agar Lebih Jelas Begini Cara Menghitung Bunga Pinjaman Kredit Plus - Pinjaman Hint",
@@ -69,7 +69,7 @@
     },
     {
       "id": 5,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Syarat Pinjaman Online Pinjam Kredit Plus - Pinjaman Agar Cepat Cair",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Kredit Plus - Pinjaman Hint Cepat Cair",
@@ -78,7 +78,7 @@
    
    {
       "id": 6,
-      "category": "Dana Rupiah",
+      "category": "Kredit Plus",
       "title": "Kemudhan Pinjaman Online di Kredit Plus - Pinjaman ",
       "image": "file:///android_asset/image/banner.png",
       "description": "Beberapa Tips Agar Pinjaman Online Kredit Plus - Pinjaman Hint Cepat Cair",
