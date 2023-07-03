@@ -13,7 +13,7 @@
       "backup_ads_natives":"ad9df4d5bfa1ab7d",
       "backup_ads_intertitial":"b65b20e3daaa53c2",
       "backup_ads_reward":"",
-      "interval_intertitial": 1,
+      "interval_intertitial": 0,
       "on_off_native_listview":"1",
       "initialize_sdk":"1972337146290007",
       "initialize_sdk_backup_ads":"",
